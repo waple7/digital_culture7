@@ -2,7 +2,7 @@
 
 int main()
 {
-    int symbol;
+    char symbol;
     scanf_s("%c", &symbol);
     printf("%c\n", symbol);
     {
